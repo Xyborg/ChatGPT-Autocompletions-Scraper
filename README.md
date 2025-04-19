@@ -2,7 +2,7 @@
 
 This tool allows you to extract autocompletion suggestions from ChatGPT for any keyword or phrase you want to research.
 
-![ChatGPT Autocompletions Scraper Interface](gpt_autocompletions.png)
+![ChatGPT Autocompletions Scraper Interface](gpt_autocompletions_v2.png)
 
 ## How it works
 
